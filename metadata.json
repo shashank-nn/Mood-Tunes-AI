@@ -1,0 +1,7 @@
+{
+  "name": "MoodTunes AI",
+  "description": "An intelligent mood-based music player that uses Gemini AI to curate the perfect playlist and streams tracks via YouTube for an immersive listening experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
